@@ -1,0 +1,3 @@
+com/samplejmsapp/activemq/HelloWorldAmqApp.class
+com/samplejmsapp/activemq/services/HelloWorldAmqService.class
+com/samplejmsapp/activemq/configuration/HelloWorldAmqConfig.class
